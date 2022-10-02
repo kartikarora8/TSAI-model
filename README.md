@@ -1,1 +1,4 @@
 # TSAI-model
+# KARTIK ARORA
+# 101917070
+# CSE-3
